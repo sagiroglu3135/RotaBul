@@ -1,0 +1,74 @@
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.exe
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.deps.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.runtimeconfig.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.runtimeconfig.dev.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.dll
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.Views.dll
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.Views.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.csprojAssemblyReference.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.AssemblyInfoInputs.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.AssemblyInfo.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.csproj.CoreCompileInputs.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorAssemblyInfo.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorAssemblyInfo.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.TagHelpers.input.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.TagHelpers.output.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorCoreGenerate.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorTargetAssemblyInfo.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorTargetAssemblyInfo.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.Views.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\staticwebassets\RotaBul.StaticWebAssets.Manifest.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\staticwebassets\RotaBul.StaticWebAssets.xml
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.dll
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.genruntimeconfig.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.csproj.CopyComplete
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca\.netCore\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Home\LocationPopulation.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.exe
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.deps.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.runtimeconfig.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.runtimeconfig.dev.json
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.dll
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.Views.dll
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\bin\Debug\netcoreapp3.1\RotaBul.Views.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.csprojAssemblyReference.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.AssemblyInfoInputs.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.AssemblyInfo.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.csproj.CoreCompileInputs.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorAssemblyInfo.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorAssemblyInfo.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.TagHelpers.input.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.TagHelpers.output.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorCoreGenerate.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Home\LocationPopulation.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorTargetAssemblyInfo.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.RazorTargetAssemblyInfo.cs
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.Views.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\staticwebassets\RotaBul.StaticWebAssets.Manifest.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\staticwebassets\RotaBul.StaticWebAssets.xml
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.dll
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.pdb
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.genruntimeconfig.cache
+C:\Users\Hatayli\Desktop\Projeler\RotaBulmaca ve LocationPopulation\.netCoreBirlestirmesi\RotaBul\RotaBul\obj\Debug\netcoreapp3.1\RotaBul.csproj.CopyComplete

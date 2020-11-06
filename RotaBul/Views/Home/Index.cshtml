@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "AnaSayfa";
+}
+
+<div>
+    <div>
+        <div><h3>Haritada bulmak istediğiniz rota için başlangıç ve bitiş noktalarını tıklayarak belirleyebilirsiniz.</h3></div>
+        <strong>Seyahat Tipi: </strong>
+        <select id="seyahatTipi" onchange="updateRouteType();">
+            <option value="DRIVING">Driving</option>
+            <option value="WALKING">Walking</option>
+            <option value="BICYCLING">Bicycling</option>
+            <option value="TRANSIT">Transit</option>
+        </select>
+        <input type="button" value="Rota Bul" onclick="rotalariGetir()" />
+
+        <div id="hiddenLink" hidden="true">Oluşturulan rotaları <a href="" id="a">buradan</a> indirebilirsiniz.</div>
+    </div>
+    <div id="map"></div>
+    <div id="tablo"></div>
+</div>
+
+
